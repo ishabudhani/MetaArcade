@@ -1,1 +1,3 @@
-# MetaArcade
+The software can be used for viewing, buying or selling NFT’s. User can use the application for easy and secure transmission. The platform is safe. This designed to help with specific tasks, simplify workflow.
+An NFT is a digital asset that represents real-world objects like art, music, in game items and videos . NFTs are part of the Ethereum blockchain and are therefore individual tokens containing additional information. This extra information is the important part, which allows them to take the form of art, music, video (and so on), in the form of JPG, MP3, videos, GIFs. Because they have value, they can be bought and sold like other types of art . Their value is largely determined by the rarity, tangibility and value in the future.                                 
+-------- BEFORE RUNNING THE PROGRAM, MAKE SURE THAT THE IMAGES SHOULD BE DOWNLOADED AND SAVED IN THE SAME FOLDER AS THE MAIN PROGRAM --------
